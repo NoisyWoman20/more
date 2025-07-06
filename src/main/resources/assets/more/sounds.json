@@ -1,0 +1,47 @@
+{
+	"music_disc.minecraft": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "more:music_disc/minecraft",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.infinite_amethyst": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "more:music_disc/infinite_amethyst",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.creator": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "more:music_disc/creator",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.creator_music_box": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "more:music_disc/creator_music_box",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.precipice": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "more:music_disc/precipice",
+				"stream": true
+			}
+		]
+	}
+}

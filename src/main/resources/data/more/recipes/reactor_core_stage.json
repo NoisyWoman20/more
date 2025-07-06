@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"a": {
+			"item": "minecraft:iron_ingot"
+		},
+		"b": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"pattern": [
+		"aba",
+		"aba",
+		"aba"
+	],
+	"result": {
+		"item": "more:reactor_core_stage"
+	},
+	"show_notification": true
+}

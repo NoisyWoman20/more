@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"a": {
+			"item": "minecraft:tuff"
+		},
+		"b": {
+			"item": "minecraft:raw_copper_block"
+		},
+		"c": {
+			"item": "minecraft:copper_block"
+		},
+		"d": {
+			"item": "minecraft:exposed_copper"
+		},
+		"e": {
+			"item": "minecraft:weathered_copper"
+		}
+	},
+	"pattern": [
+		"aaa",
+		"aba",
+		"cde"
+	],
+	"result": {
+		"item": "more:music_disc_precipice"
+	},
+	"show_notification": true
+}

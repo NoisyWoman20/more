@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"a": {
+			"item": "minecraft:amethyst_block"
+		},
+		"b": {
+			"item": "minecraft:calcite"
+		}
+	},
+	"pattern": [
+		"aaa",
+		"aba",
+		"aaa"
+	],
+	"result": {
+		"item": "more:music_disc_infinite_amethyst"
+	},
+	"show_notification": true
+}
