@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "more",
-	"version": "1.0.0",
+	"version": "1.0.0+mc1.20.1",
 	"name": "More",
 	"description": "This is a mod of Minecraft.",
 	"authors": ["NoisyWoman20"],
