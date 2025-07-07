@@ -6,7 +6,8 @@
 	"description": "This is a mod of Minecraft.",
 	"authors": ["NoisyWoman20"],
 	"contact": {
-		"homepage": "https://space.bilibili.com/1009496049?spm_id_from=333.1007.0.0"
+		"homepage": "https://space.bilibili.com/1009496049?spm_id_from=333.1007.0.0",
+		"sources": "https://github.com/NoisyWoman20/more"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/more/icon.png",
