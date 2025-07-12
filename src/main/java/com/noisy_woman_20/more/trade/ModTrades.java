@@ -176,26 +176,6 @@ public class ModTrades {
 			});
 		});
 
-		TradeOfferHelper.registerVillagerOffers(VillagerProfession.WEAPONSMITH, 3, factories -> {
-			factories.add((entity, random) -> {
-				int emeraldCount = 1;
-				try {
-					emeraldCount = (10 + interval(-3, 3));
-				} catch (IllegalAccessException e) {
-					More.LOGGER.warn(("TOTEM_OF_DYING_ITEM: " + e.getMessage()));
-				}
-				int maxUses = 16;
-				int experience = 5;
-				float priceMultiplier = 0.05f;
-				return new TradeOffer(
-					new ItemStack(Items.EMERALD, emeraldCount),
-					new ItemStack(Items.AIR, 0),
-					new ItemStack(ModItems.TOTEM_OF_DYING),
-					maxUses, experience, priceMultiplier
-				);
-			});
-		});
-
 		TradeOfferHelper.registerVillagerOffers(VillagerProfession.MASON, 2, factories -> {
 			factories.add((entity, random) -> {
 				int emeraldCount = 2;
