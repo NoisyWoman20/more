@@ -16,9 +16,9 @@ public class ModRecipeSerializers {
 		More.LOGGER.info("Registered mod recipe serializers successfully");
 	}
 
-	private static <T extends Recipe<?>> void registerRecipeSerializer(RecipeSerializer<T> serializer, String Id) {
-		Identifier identifier = new Identifier(More.MOD_ID, Id);
-		Registry.register( Registries.RECIPE_SERIALIZER, identifier, serializer);
+	private static <T extends Recipe<?>> void registerRecipeSerializer(RecipeSerializer<T> serializer, String id) {
+		Identifier identifier = new Identifier(More.MOD_ID, id);
+		Registry.register(Registries.RECIPE_SERIALIZER, identifier, serializer);
 	}
 
 	public static final RecipeSerializer<TotemOfDyingRecipe> TOTEM_OF_DYING = TotemOfDyingRecipeSerializer.INSTANCE;
