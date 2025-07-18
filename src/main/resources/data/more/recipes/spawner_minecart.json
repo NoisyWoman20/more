@@ -1,0 +1,14 @@
+{
+	"type": "more:totem_of_dying_crafting",
+	"category": "equipment",
+	"ingredients": [
+		{"item": "minecraft:totem_of_undying"},
+		{
+			"item": "minecraft:potion",
+			"nbt": "{Potion:\"minecraft:harming\"}"
+		}
+	],
+	"result": {
+		"item": "more:totem_of_dying"
+	}
+}

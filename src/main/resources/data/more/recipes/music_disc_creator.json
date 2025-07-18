@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"a": {
+			"item": "minecraft:oxidized_copper"
+		},
+		"b": {
+			"item": "minecraft:gold_block"
+		}
+	},
+	"pattern": [
+		"aaa",
+		"aba",
+		"aaa"
+	],
+	"result": {
+		"item": "more:music_disc_creator"
+	},
+	"show_notification": true
+}

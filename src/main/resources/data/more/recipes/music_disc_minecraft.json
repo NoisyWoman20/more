@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"a": {
+			"item": "minecraft:deepslate"
+		},
+		"b": {
+			"item": "minecraft:grass_block"
+		}
+	},
+	"pattern": [
+		"aaa",
+		"aba",
+		"aaa"
+	],
+	"result": {
+		"item": "more:music_disc_minecraft"
+	},
+	"show_notification": true
+}

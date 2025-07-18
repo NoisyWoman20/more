@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"a": {
+			"item": "minecraft:netherite_scrap"
+		},
+		"b": {
+			"item": "minecraft:netherite_ingot"
+		},
+		"c": {
+			"item": "minecraft:bone"
+		},
+		"d": {
+			"item": "minecraft:deepslate"
+		}
+	},
+	"pattern": [
+		"aba",
+		"cdc",
+		"aba"
+	],
+	"result": {
+		"item": "minecraft:reinforced_deepslate"
+	},
+	"show_notification": true
+}

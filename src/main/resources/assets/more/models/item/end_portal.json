@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/end_portal_frame",
+	"textures": {
+		"bottom": "more:item/end_portal_top_and_bottom",
+		"top": "more:item/end_portal_top_and_bottom",
+		"side": "more:item/end_portal_side"
+	}
+}

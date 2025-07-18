@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "more:item/end_portal_top_and_bottom"
+	}
+}

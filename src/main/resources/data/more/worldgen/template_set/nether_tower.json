@@ -1,0 +1,14 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 114514191919,
+		"separation": 5,
+		"spacing": 34
+	},
+	"structures": [
+		{
+			"structure": "ntrs:nether_tower",
+			"weight": 1
+		}
+	]
+}

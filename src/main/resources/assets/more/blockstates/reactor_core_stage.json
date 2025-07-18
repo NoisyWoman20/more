@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"state=inactive": {"model": "more:block/reactor_core_stage_inactive"},
+		"state=activation": {"model": "more:block/reactor_core_stage_activation"},
+		"state=extinguished": {"model": "more:block/reactor_core_stage_extinguished"}
+	}
+}
