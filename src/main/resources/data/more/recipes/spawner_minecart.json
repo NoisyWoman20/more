@@ -1,14 +1,15 @@
 {
-	"type": "more:totem_of_dying_crafting",
-	"category": "equipment",
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
 	"ingredients": [
-		{"item": "minecraft:totem_of_undying"},
 		{
-			"item": "minecraft:potion",
-			"nbt": "{Potion:\"minecraft:harming\"}"
+			"item": "minecraft:spawner"
+		},
+		{
+			"item": "minecraft:minecart"
 		}
 	],
 	"result": {
-		"item": "more:totem_of_dying"
+		"item": "more:spawner_minecart"
 	}
 }
